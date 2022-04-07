@@ -1,4 +1,4 @@
-# Payconiq Candidate task
+# Stock exchange sample project
 
 ## Task summary
 
